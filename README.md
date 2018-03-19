@@ -75,8 +75,3 @@ The last part of the process involves applying the model to cleaned data from th
 * SQL query optimisation
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
