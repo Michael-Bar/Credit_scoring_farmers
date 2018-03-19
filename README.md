@@ -73,3 +73,10 @@ The last part of the process involves applying the model to cleaned data from th
 * Hybrid approach combining predictions of final % repaid with default probability
 * Default hotspot mapping for decision making
 * SQL query optimisation
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
